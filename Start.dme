@@ -6,11 +6,17 @@
 // END_INTERNALS
 
 // BEGIN_FILE_DIR
+#define FILE_DIR .
 // END_FILE_DIR
 
 // BEGIN_PREFERENCES
 // END_PREFERENCES
 
 // BEGIN_INCLUDE
+#include "Start.dm"
+#include "code\player.dm"
+#include "code\turf .dm"
+#include "code\verb.dm"
+#include "maps\map.dmm"
 // END_INCLUDE
 
