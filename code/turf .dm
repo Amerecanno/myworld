@@ -5,6 +5,7 @@
     name = "Floor"
     desc = "Floor"
     icon = 'icon/floor_1.dmi'
+    density = 0
 /turf/floor/floor0
     icon_state = "site"
 /turf/floor/floor1
